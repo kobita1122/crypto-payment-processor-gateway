@@ -1,0 +1,9 @@
+{
+  "name": "crypto-payment-gateway",
+  "version": "1.0.0",
+  "description": "On-chain payment event processor",
+  "main": "processor.js",
+  "dependencies": {
+    "ethers": "^6.11.1"
+  }
+}
